@@ -1,0 +1,99 @@
+#contenedor{
+   width: 1000px;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+body{
+    background-image: url(../img/SeguridadInformatica_fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;         
+}
+h2{
+    font-family: sans-serif;
+    color: #005883;
+    margin-left: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3{
+    font-family: sans-serif;
+    color: #FFFFFF;
+    margin-left: 20px;
+    font-size: 25px;
+    text-align: left;
+}
+header{
+    width: 1000px;
+    height: 133px;
+    margin: 0px;
+}
+nav{
+    width: 1000px;
+    height: 80px;
+    background: #FFFFFF;
+    border: solid;
+    border-radius: 10px;
+    border-color: 005883;
+}
+ul{
+    margin: auto;
+    padding-top: 4px;
+}
+
+li{
+    
+    float: left;
+    list-style-type: none;
+    padding: 10px;
+    margin: 4px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #005883;
+}
+section{
+    width: 700px;
+    background: #FFFFFF;
+    height: 600PX;
+    float: left;
+    margin-top: 10px;
+    border: solid;
+    border-radius: 10px;
+    border-color: #005883;
+}
+aside{
+/*    width: 280px;*/
+    width: 270px;
+    background: #FFFFFF;
+    height: 600px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: solid;
+    border-radius: 10px;
+    border-color: #005883;
+}
+footer{
+    width: 1000px;
+    height: 100px;    
+    background: #005883;
+    float: left;
+    margin-top: 10px;
+     margin-left: 20px;
+    border: solid;
+    border-radius: 10px;   
+    margin-bottom: 20px;
+     border-color: #005883;
+}
+p{
+    font-size: 15px;
+    font-weight: bolder;
+    line-height: 24px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
