@@ -9,6 +9,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;         
 }
+h1{
+    font-family: sans-serif;
+    color: #005883;
+    margin-left: 10px;
+    font-size: 20px;
+    text-align: left;
+}
 h2{
     font-family: sans-serif;
     color: #005883;
@@ -26,7 +33,7 @@ h3{
 }
 header{
     width: 1000px;
-    height: 133px;
+    height: 300px;
     margin: 0px;
 }
 nav{
@@ -65,6 +72,17 @@ section{
     border-radius: 10px;
     border-color: #005883;
 }
+#SectionConceptos{
+     width: 1000px;
+    background: #FFFFFF;
+    height: 950PX;
+    float: left;
+    margin-top: 10px;
+    border: solid;
+    border-radius: 10px;
+    border-color: #005883;
+}
+
 aside{
 /*    width: 280px;*/
     width: 270px;
@@ -83,7 +101,7 @@ footer{
     background: #005883;
     float: left;
     margin-top: 10px;
-     margin-left: 20px;
+    
     border: solid;
     border-radius: 10px;   
     margin-bottom: 20px;
